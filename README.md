@@ -17,7 +17,7 @@ A responsive front-end **TripAdvisor Clone** built using **HTML5** and **CSS3**.
 - CSS3
 
 ## How to view
-you can access my portfolio website by visiting [link] free to explore the content and get in touch!
+you can access my portfolio website by visiting [https://aharisivakumar.github.io/Trip-Advisor/] free to explore the content and get in touch!
 
 ## 🎯 Purpose
 
